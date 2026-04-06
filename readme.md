@@ -23,6 +23,10 @@ A modern and responsive personal portfolio website built using HTML, CSS, and Ja
 
 ![Portfolio Preview](./IMG/Screenshot%202026-04-06%20195521.png)
 
+![Portfolio Preview](./IMG/Screenshot%202026-04-06%20195346.png)
+
+![Portfolio Preview](./IMG/Screenshot%202026-04-06%20195421.png)
+
 ## Folder Structure
 
 ```bash id="88mp52"
